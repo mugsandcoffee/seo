@@ -51,7 +51,6 @@ class PageTitle {
         ]
     ];
 
-
     public function __construct($params = [])
     {
         // merges multi-dimensional array recursively
