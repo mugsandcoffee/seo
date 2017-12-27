@@ -10,5 +10,10 @@
             "name": "Kenneth Vallejos",
             "email": "kenn_vall@yahoo.com"
         }
-    ]
+    ],
+    "autoload": {
+       "psr-4": {
+          "MugsAndCoffee\\": "src/"
+       }
+    }
 }
