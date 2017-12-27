@@ -2,7 +2,7 @@
     "name": "mugsandcoffee/seo",
     "description": "Auto generate meta tags",
     "require": {
-        "php": ">=5.3"
+        "php": ">=5.3.0"
     },
     "license": "MIT",
     "homepage": "https://github.com/mugsandcoffee/seo.git",
@@ -12,9 +12,10 @@
             "email": "kenn_vall@yahoo.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
        "psr-4": {
-          "MugsAndCoffee\\": "src"
+          "MugsAndCoffee\\": "src/"
        }
     }
 }
