@@ -1,0 +1,14 @@
+{
+    "name": "mugsandcoffee/seo",
+    "description": "Auto generate meta tags",
+    "require": {
+        "php": ">=5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kenneth Vallejos",
+            "email": "kenn_vall@yahoo.com"
+        }
+    ]
+}
